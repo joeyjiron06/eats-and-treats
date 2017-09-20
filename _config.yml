@@ -3,7 +3,7 @@ title: 'Eats and Treats'
 description: "Joey and Jen's food adventures"
 keyword: 'food, dining, dessert, tea, coffee, cooking'
 url: 'https://joeyjiron06.github.io' # your host
-baseurl: '/eats-and-treats'
+baseurl: '/eats-and-treats/'
 
 # Navigation links
 nav:
