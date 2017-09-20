@@ -2,8 +2,9 @@
 title: 'Eats and Treats'
 description: "Joey and Jen's food adventures"
 keyword: 'food, dining, dessert, tea, coffee, cooking'
-url: 'https://joeyjiron06.github.io' # your host
-baseurl: '/eats-and-treats/'
+url: "https://joeyjiron06.github.io/eats-and-treats"
+baseurl: "/eats-and-treats/"
+
 
 # Navigation links
 nav:
@@ -15,6 +16,11 @@ author: 'Joey and Jen'
 nickname: ''
 bio: ''
 avatar: 'assets/img/profile.png'
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
+
 
 # Search
 search: true
