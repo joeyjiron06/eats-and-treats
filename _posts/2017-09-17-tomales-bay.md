@@ -15,6 +15,9 @@ We planned a day trip to Tomales Bay with Jen’s med school friends to celebrat
 
 We brought other picnic fixings with us and spent the next couple hours snacking and shucking. After the first few, we started getting the hang of it. The edges of the oysters are kind of sharp, so holding them with a towel or glove is definitely helpful. Our other friends shucked a couple, but we were happy to help with the rest.  That twist of the knife that cracks that sucker open is so satisfying!
 
+<a href="https://lh3.googleusercontent.com/hs9fKfVuLjrfg5VSvmEajSbiNHruBzqFo28m3lELEVvuiGM-SvXfNnt0ore4VJ7EySWEp5Y_Jb7DsS4K3l7PCx7RTjKX0g_r1DT_xUf_MUFn4wh3rl4awAQkWWvOqsOKrQDzw95looq5cnpqZFLnGjHpXy5mRB7FbK78sEnMYISquUo-jKWcjS2U-IPe3MXDD-JWoQGKFvu9yJr8_WJyBA2wOLLwqSniBfLAfnOZbU-ImPo7h4ngRtut4ZoxpCu16yWCn3cpL6a8tqYOh5ObYui8_34ksl32QSjvlDl3TIbSwz9uiuvrgK64XOuhRSlXFicAynzvxQ-XwruVHTyvZ7aNaemZE3PXA_g7aO2DXWvgiXU-aK9dTyN168qV4BCYkovFg_4DO_4mLZnUFHWt3LFPcPUYewETUgtFjkOmlXl38V_CA9aQNS02LcuELJ9Wi4Q1xln-DVJ02vGMnxTTkq2X0hWXwxgge8XklYmOuGoei2UUvPdZPFcrqxDVqVsep3PC8ewDX-oCKp0GT8qqFj6Joprwgv16ySNfKlKLu9s_7eiG8KlRBJZVtWFnOeHAna0uRmZwTMVAZCHEfd9LHJ26xST6cv1bdlwrRaHfXg=s800-no"></a>
+
+
 The picnic area, a little patch of grass right next to the oyster stand, has a beautiful view of the Bay.  There were plenty of people and pets, but it was still a relaxing environment quiet enough for normal volume conversations.  
 
 After eating our fill of oysters, we decided to walk off the picnic with a long hike at Mount Tam.  We left feeling lucky to live in the Bay Area, where we can wake up in San Francisco, drive an hour to eat oysters plucked right out of the bay, and then walk around in a redwood forest.  Not sure where we’ll end up next, but loving this life for now!
