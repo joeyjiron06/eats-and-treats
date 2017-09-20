@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-##Picnic at Tomales Bay
+## Picnic at Tomales Bay
 
-###Tomales Bay, CA
+### Tomales Bay, CA
 
 
 
