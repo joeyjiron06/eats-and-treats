@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ##Picnic at Tomales Bay
 
@@ -16,4 +16,3 @@ We brought other picnic fixings with us and spent the next couple hours snacking
 The picnic area, a little patch of grass right next to the oyster stand, has a beautiful view of the Bay.  There were plenty of people and pets, but it was still a relaxing environment quiet enough for normal volume conversations.  
 
 After eating our fill of oysters, we decided to walk off the picnic with a long hike at Mount Tam.  We left feeling lucky to live in the Bay Area, where we can wake up in San Francisco, drive an hour to eat oysters plucked right out of the bay, and then walk around in a redwood forest.  Not sure where we’ll end up next, but loving this life for now!
-
