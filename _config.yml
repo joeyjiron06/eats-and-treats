@@ -9,7 +9,7 @@ permalink: /:title/
 # Navigation links
 nav:
   home: './'
-  tags: '/tags.html'
+#  tags: '/tags.html'
 
 # Author
 author: 'Joey and Jen'
